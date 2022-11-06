@@ -1,8 +1,9 @@
-### I work in developer infrastructure, have signifcant oncall experience, and have a lot of experience handling bugs  
+### I work in developer infrastructure, have signifcant oncall experience, and have a lot of experience handling bugs
 * 6 years of sofware industry experience
     * 3 years Big Tech
     * 2 years MANGA-like (formerly FAANG)
     * 1 year startup
+### JavaScript, Python, SQL, NoSQL, Backend, Frontend
 
 ### Full Stack - backend focussed
 
