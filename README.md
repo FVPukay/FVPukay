@@ -6,7 +6,7 @@
 
 ### Full Stack - backend focussed
 
-### Have a BA History degree - excellent at writing and well-structured arguments - also have a lot of soft skills and an interest in the underlying business models of apps
+### Have a BA History degree - excellent at writing and well-structured arguments - have a lot of soft skills - interest in the underlying business models of apps
 
 ### My [LinkedIn Profile](https://www.linkedin.com/in/frederickpukay/)
 
