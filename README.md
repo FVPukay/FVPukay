@@ -1,4 +1,14 @@
-### Hi there 👋
+### I work in developer infrastructure, have signifcant oncall experience, and have a lot of experience handling bugs  
+* 6 years of sofware industry experience
+    * 3 years Big Tech
+    * 2 years MANGA-like (formerly FAANG)
+    * 1 year startup
+
+### Full Stack - backend focussed
+
+### Have a BA History degree - excellent at writing and well-structured arguments - also have a lot of soft skills and an interest in the underlying business models of apps
+
+### My [LinkedIn Profile](https://www.linkedin.com/in/frederickpukay/)
 
 <!--
 **FVPukay/FVPukay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
