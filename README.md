@@ -7,7 +7,7 @@
 
 ### Have a BA History degree - great at writing, research, and well-structured arguments - have a lot of soft skills - interest in the underlying business models of apps
 
-### My [LinkedIn Profile](https://www.linkedin.com/in/frederickpukay/)
+### [My LinkedIn Profile](https://www.linkedin.com/in/frederickpukay/)
 
 <!--
 **FVPukay/FVPukay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
