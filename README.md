@@ -5,8 +5,6 @@
     * 1 year startup
 ### JavaScript, Python, SQL, NoSQL, Backend, Frontend
 
-### Full Stack - backend focussed
-
 ### Have a BA History degree - great at writing, research, and well-structured arguments - have a lot of soft skills - interest in the underlying business models of apps
 
 ### My [LinkedIn Profile](https://www.linkedin.com/in/frederickpukay/)
