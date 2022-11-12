@@ -3,7 +3,7 @@
     * 3 years Big Tech
     * 2 years MANGA-like (formerly FAANG)
     * 1 year startup
-### JavaScript, Python, SQL, NoSQL, Backend, Frontend
+### JavaScript, Python, SQL, NoSQL, Backend, Frontend, Full Stack
 
 ### Have a BA History degree - great at writing, research, and well-structured arguments - have a lot of soft skills - interest in the underlying business models of apps
 
