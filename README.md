@@ -3,9 +3,10 @@
     * 3 years Big Tech
     * 2 years MANGA-like (formerly FAANG)
     * 1 year startup
-### JavaScript, Python, SQL, NoSQL, Backend, Frontend, Full Stack
+### JavaScript, React, Python, SQL, NoSQL, Backend, Frontend, Full Stack
 
-### Have a BA History degree - great at writing, research, and well-structured arguments
+### My Data Structures & Algorithms Answers
+* https://github.com/FVPukay/data-structures-and-algorithms
 
 ### [My LinkedIn Profile](https://www.linkedin.com/in/frederickpukay/) - for specifics
 
