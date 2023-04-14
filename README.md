@@ -3,7 +3,6 @@
     * 3 years Big Tech
     * 2 years MANGA-like (formerly FAANG)
     * 1 year startup
-### JavaScript, React, Python, Backend, Frontend, Full Stack
 
 ### My Data Structures & Algorithms Answers
 * https://github.com/FVPukay/data-structures-and-algorithms
