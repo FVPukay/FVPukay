@@ -1,4 +1,4 @@
-### Hi, I'm a software engineer with 7 years of industry experience who enjoys finding solutions to difficult problems and translating those solutions into code.  I enjoy the unknown, figuring things out, asking questions (I'm curious), software design and architecture, and helping out where needed.  Skills/Interests: Backend, JavaScript, React
+### Hi, I'm a software engineer with 7 years of industry experience who enjoys finding solutions to difficult problems and translating those solutions into software.  I enjoy the unknown, figuring things out, asking questions (I'm curious), software design and architecture, and helping out where needed.  Skills/Interests: Backend, JavaScript, React
 
 ### My Data Structures & Algorithms Answers
 * https://github.com/FVPukay/data-structures-and-algorithms
