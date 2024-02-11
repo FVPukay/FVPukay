@@ -1,4 +1,16 @@
-### Hi, I'm a software engineer with 7 years of industry experience who enjoys finding solutions to difficult problems and translating those solutions into software.  I enjoy the unknown, figuring things out, asking questions (I'm curious), software design and architecture, and helping out where needed.  Skills/Interests: Backend, JavaScript, React
+### Hi, I am now posting on LinkedIn for the first time. My goal is to post content that is:
+1. Useful to those lacking a CS degree who are attempting to land entry level software engineering or related roles.
+2. Talk about software engineering in general.
+3. Draw attention to the Tragedy of the Commons and why hiring entry level software engineers is very beneficial for the software industry. 
+
+For more on the Tragedy of the Commons, see:
+* Why nobody hires junior developers and what happens next - https://www.notonlycode.org/nobody-hires-juniors/
+* Why nobody hires junior developers anymore according to an engineering manager - https://scrimba.com/podcast/why-nobody-hires-junior-developers/
+
+I hope my content is both enjoyable and helpful.
+
+About Me:
+I work in the software industry. I enjoy the unknown, figuring things out, coming up with various angles and approaches to tackle problems, root causing bugs, asking questions (I'm curious), data structures & algorithms, project work and delivering value, supporting product users, software design and architecture, and helping.
 
 ### My Data Structures & Algorithms Answers
 * https://github.com/FVPukay/data-structures-and-algorithms
