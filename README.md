@@ -1,11 +1,6 @@
 ### Hi, I am now posting on LinkedIn for the first time. My goal is to post content that is:
 1. Useful to those lacking a CS degree who are attempting to land entry level software engineering or related roles.
 2. Talk about software engineering in general.
-3. Draw attention to the Tragedy of the Commons and why hiring entry level software engineers is very beneficial for the software industry. 
-
-For more on the Tragedy of the Commons, see:
-* Why nobody hires junior developers and what happens next - https://www.notonlycode.org/nobody-hires-juniors/
-* Why nobody hires junior developers anymore according to an engineering manager - https://scrimba.com/podcast/why-nobody-hires-junior-developers/
 
 I hope my content is both enjoyable and helpful.
 
