@@ -5,7 +5,7 @@
 I hope my content is both enjoyable and helpful.
 
 About Me:
-I work in the software industry. I enjoy the unknown, figuring things out, coming up with various angles and approaches to tackle problems, root causing bugs, asking questions (I'm curious), data structures & algorithms, project work and delivering value, supporting product users, software design and architecture, and helping.
+I work in the software industry. I enjoy the unknown, figuring things out, coming up with various angles and approaches to tackle problems, root causing bugs, asking questions (I'm curious), data structures & algorithms (using LeetCode), project work and delivering value, supporting product users, software design and architecture, and helping.
 
 ### My Data Structures & Algorithms Answers
 * https://github.com/FVPukay/data-structures-and-algorithms
