@@ -5,7 +5,15 @@
 I hope my content is both enjoyable and helpful.
 
 About Me:
-I work in the software industry. I enjoy the unknown, figuring things out, coming up with various angles and approaches to tackle problems, root causing bugs, asking questions (I'm curious), data structures & algorithms (using LeetCode), project work and delivering value, supporting product users, software design and architecture, and helping.
+I work in the software industry. I enjoy the unknown, figuring things out, coming up with various angles and approaches to tackle problems, root causing bugs, asking questions - I'm curious, data structures & algorithms - LeetCode, project work and delivering value, supporting product users, software design and architecture, and helping.
+
+Some Technologies I've worked with: 
+- Languages: JavaScript, Python, Swift, Objective-C, Java, HTML, CSS
+- Libraries, Frameworks, and Tools: React, Node.js, Express, Helmet to secure applications, Flask, Django, SQL, noSQL - e.g. MongoDB Atlas, Peewee ORM, SQLAlchemy ORM, Mongoose ODM, EJS, Jinja2, Django Template Language, Jest, coverage.py, Python unit and integration testing, Heroku
+
+Some of the industries I have experience in: Restaurant - Takeout and Delivery, Performance Management Software - OKRs, Conversations, Feedback, Recognition, Developer Infrastructure - IDE and Code Authoring tooling, Release Engineering
+
+My content, thoughts, and views are entirely my own.
 
 ### My Data Structures & Algorithms Answers
 * https://github.com/FVPukay/data-structures-and-algorithms
