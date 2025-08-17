@@ -1,5 +1,5 @@
 ### Hey, I'm Fred 👋
-I'm currently an engineer at Meta.
+I'm currently a Senior Backend Full Stack Developer at Meta.
 
 
 <!--
