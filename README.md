@@ -1,5 +1,6 @@
-### My Data Structures & Algorithms Answers
-* https://github.com/FVPukay/data-structures-and-algorithms
+## Hey, I'm Fred 👋
+I'm currently an engineer at Meta.
+
 
 <!--
 **FVPukay/FVPukay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
