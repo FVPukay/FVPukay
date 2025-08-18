@@ -1,4 +1,4 @@
-### Hey, I'm Fred 👋
+### Hi, I'm Fred 👋
 I'm currently a Senior Backend Full Stack Developer at Meta.
 
 My specialties are developer and productivity tooling.
