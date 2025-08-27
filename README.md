@@ -1,5 +1,5 @@
 ### Hi, I'm Fred 👋
-I'm currently a JavaScript / React Developer at Meta.
+I'm currently a JavaScript / React Developer at Meta.  I particularly excel at prototyping products and getting early versions to customers for feedback.
 
 My specialties are developer and productivity tooling.
 <!--
