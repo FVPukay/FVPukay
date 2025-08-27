@@ -1,5 +1,5 @@
 ### Hi, I'm Fred 👋
-I'm currently a JavaScript / React Full Stack Developer at Meta.
+I'm currently a JavaScript / React Developer at Meta.
 
 My specialties are developer and productivity tooling.
 <!--
